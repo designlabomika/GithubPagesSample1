@@ -1,2 +1,2 @@
 # GithubPagesSample1
-GitHubテスト用ページです。
+GitHubPagesのテスト用レポジトリです。
